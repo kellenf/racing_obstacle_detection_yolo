@@ -1,0 +1,5 @@
+{
+	"model_file": "/root/codes/yolov5s_672x672_nv12.bin",
+	"class_num": 1,
+	"cls_names_list": "config/obstacles.list"
+}

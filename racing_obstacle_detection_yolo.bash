@@ -1,0 +1,2 @@
+source install/setup.bash
+ros2 launch racing_obstacle_detection_yolo racing_obstacle_detection_yolo.launch.py
